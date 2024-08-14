@@ -1,6 +1,2 @@
-#The projects I uploaded are solving the problem of creating an interrupt in an SOS system and echoing inputs of a user.
-#For these projects I think I organized them well. I think I broke down the steps into functions well to help keep the code organized and easy to read.
-#I could improve my naming conventions and in-code comments.
-#these projects allowed me to add a better understanding of embedded systems and the transfer of data through a UART.
-#The skills I gained from these projects are better problem compartmentalizing and researching niche issues that arise in coding
-#I make my code maintainable readable and accessible by breaking down the functions of the codes into individualized functions in the code. I also made my variables size_x to allow for dynamic suze changes for adaptive scaling.  
+#The goal of this project was to develop a program that would run autonomously on a CS320S LAUNCXL board.
+#The board would send morse code singles  deepeding on user inuts. The default was OK and once a button was pressed it would switch to SOS once the current message was fully sent.
